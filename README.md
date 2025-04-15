@@ -21,15 +21,9 @@
 
 ### 🌐 Conectemos
 
-<a href="mailto:fjgarridovalderas@hotmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/francisco-javier-garrido-valderas-030860328/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/JaviGarrido13">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" />
-</a>
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fjgarridovalderas@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-garrido-valderas-030860328/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/JaviGarrido13)
 
 
 ---
