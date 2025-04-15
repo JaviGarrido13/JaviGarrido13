@@ -73,7 +73,7 @@
 
 - **[Hackloud FRONT](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-FRONT)**  
   Captura de la página principal Home al loguearte con tu usuario:  
-  <img src="URL_de_imagen" width="500" />
+  <img src="https://github.com/JaviGarrido13/JaviGarrido13/blob/main/Hackloud_Home.png?raw=true" width="500" />
   
 ---
 
