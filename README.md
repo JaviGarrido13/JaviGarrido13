@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! I'm <a href="https://github.com/JaviGarrido13">Javi Garrido</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=750&lines=Fullstack+Developer+in+constant+learning;Backend+and+clean+code+enthusiast;Building+with+JavaScript+and+React;Details+make+the+difference" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer+in+constant+learning;Backend+and+clean+code+enthusiast;Building+with+JavaScript+and+React;Details+make+the+difference" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
 
-💼 **Full Stack Developer** committed to continuous learning  
-📚 Trained in **Full Stack Development** at **HACKABOSS**, working with modern technologies such as JavaScript, React, and Node.js  
+💼 **Full Stack Web Developer** committed to continuous learning  
+📚 Trained in **Full Stack Web Development** at **HACKABOSS**, working with modern technologies such as JavaScript, React, and Node.js  
 🧩 Experienced in applying agile methodologies like **Scrum**, and using tools such as **Postman**, **GitHub**, and **MySQL**  
 🔭 Currently focused on both **backend** and **frontend** development, with a strong emphasis on clean code practices  
 🌱 Dedicated to **continuous improvement** and staying up to date with the latest technologies  
