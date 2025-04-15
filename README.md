@@ -68,11 +68,11 @@
   <img src="https://github.com/JaviGarrido13/JaviGarrido13/blob/main/Hackoji.png?raw=true" width="500" />
 
 - **[Hackloud BACK](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK)**  
-  Descripción breve del proyecto. Agrega una imagen si lo deseas:  
+  Diagrama de la DDBB creado con yEd Graph Editor:  
   <img src="https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK/blob/main/src/db/PFB_DiscoDuroOnline.jpg?raw=true" width="500" />
 
 - **[Hackloud FRONT](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-FRONT)**  
-  Descripción breve del proyecto. Agrega una imagen si lo deseas:  
+  Captura de la página principal Home al loguearte con tu usuario:  
   <img src="URL_de_imagen" width="500" />
   
 ---
