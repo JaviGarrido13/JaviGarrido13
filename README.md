@@ -98,8 +98,15 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 </p>
 
-> _"Simplicidad es la máxima sofisticación."_ – Leonardo da Vinci
+<p align="center">
+  <em><strong>"Simplicidad es la máxima sofisticación."</strong> – Leonardo da Vinci</em>
+</p>
+
+---
+
