@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Sobre mí
-- 🌱 Actualmente aprendiendo: **Clean Code, SOLID, y mejores prácticas backend**
+- 🌱 Actualmente aprendiendo: **Tolling JS y mejorando Tailwind CSS**
 - 💻 Apasionado por construir soluciones útiles y bien estructuradas
 - 🧠 Me gusta explorar nuevas tecnologías y patrones de arquitectura
 - 📬 Contacto: fjgarridovalderas@hotmail.com
