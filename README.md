@@ -5,12 +5,15 @@
 </p>
 
 ### 🚀 Sobre mí
-💼 Desarrollador Full Stack en constante formación  
-📚 Formación en Full Stack Development en Bootcamp HACKABOSS  
-🧩 Con experiencia aplicando metodologías ágiles (Scrum) y herramientas como GitHub, MySQL y Postman  
-🔭 Enfocado en backend y frontend, con énfasis en código limpio  
-🌱 Comprometido con el aprendizaje continuo  
-📬 Contacto: [fjgarridovalderas@hotmail.com](mailto:fjgarridovalderas@hotmail.com)
+💼 Soy un desarrollador Full Stack en constante formación  
+📚 Me formé en Full Stack Development at Bootcamp HACKABOSS trabajando con tecnologías modernas como JavaScript, React y Node.js entre otras
+🧩 Tengo experiencia aplicando metodologías ágiles como Scrum y herramientas como Postman, GitHub y MySQL  
+🔭 Actualmente enfocado en el desarrollo backend, frontend y buenas prácticas de código  
+🌱 Comprometido con el aprendizaje continuo
+🚀 Tecnologías que domino: HTML, CSS, React.js, Node.js, SQL, Tailwind, bcrypt, dotenv, JWT y más  
+🎯 Interesado en oportunidades donde pueda crecer como desarrollador
+🤝 Abierto a colaborar en proyectos web, backend y frontend 
+📬 Contacto: fjgarridovalderas@hotmail.com  
 
 ---
 
