@@ -39,36 +39,46 @@
 
 #### **Lenguajes:**
 <p align="center">
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
 
 #### **Frontend:**
 <p align="center">
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-  ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" />
 </p>
 
 #### **Backend:**
 <p align="center">
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
-  ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)  
-  ![bcrypt](https://img.shields.io/badge/-bcrypt-005D61?style=flat&logo=hashicorp&logoColor=white)
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/-bcrypt-005D61?style=flat&logo=hashicorp&logoColor=white" alt="bcrypt" />
 </p>
 
 #### **Bases de Datos:**
 <p align="center">
-  ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 #### **Herramientas:**
 <p align="center">
-  ![GitHub](https://img.shields.io/badge
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-yEd%20Graph%20Editor-98B8D9?style=flat&logo=yed&logoColor=white" alt="yEd Graph Editor" />
+</p>
+
+#### **Metodologías:**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=agile&logoColor=white" alt="Scrum" />
+</p>
+
 
