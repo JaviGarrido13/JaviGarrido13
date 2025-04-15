@@ -61,6 +61,18 @@
 
 ---
 
+### 🚀 Proyectos Destacados
+
+- **[Proyecto 1](enlace_del_proyecto)**  
+  Descripción breve del proyecto. Puedes incluir una captura de pantalla aquí:
+  ![Imagen del Proyecto](URL_de_imagen)
+
+- **[Proyecto 2](enlace_del_proyecto)**  
+  Descripción breve del proyecto. Agrega una imagen si lo deseas:
+  ![Imagen del Proyecto](URL_de_imagen)
+
+---
+
 ### 📈 Mis Estadísticas
 
 <div align="center">
