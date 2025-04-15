@@ -63,13 +63,14 @@
 
 ### 🚀 Proyectos Destacados
 
-- **[Hackoji]([enlace_del_proyecto](https://github.com/JaviGarrido13/Hackoji-Parejas-Emojis))**  
+- **[Hackoji](https://github.com/JaviGarrido13/Hackoji-Parejas-Emojis)**  
   Descripción breve del proyecto. Puedes incluir una captura de pantalla aquí:
   ![Imagen del Proyecto](URL_de_imagen)
 
 - **[Hackloud](enlace_del_proyecto)**  
   Descripción breve del proyecto. Agrega una imagen si lo deseas:
   ![Imagen del Proyecto](URL_de_imagen)
+
 
 ---
 
