@@ -7,7 +7,7 @@
 ### 🚀 Sobre mí
 
 💼 **Desarrollador Full Stack** en constante formación  
-📚 Me formé en **Full Stack Development** en el Bootcamp **HACKABOSS**, trabajando con tecnologías modernas como JavaScript, React y Node.js.  
+📚 Me formé en **Full Stack Development** en **HACKABOSS**, trabajando con tecnologías modernas como JavaScript, React y Node.js.  
 🧩 Tengo experiencia aplicando metodologías ágiles como **Scrum** y herramientas como **Postman**, **GitHub** y **MySQL**.  
 🔭 Actualmente enfocado en el desarrollo **backend** y **frontend**, con un énfasis en buenas prácticas de código.  
 🌱 Comprometido con el **aprendizaje continuo**.  
