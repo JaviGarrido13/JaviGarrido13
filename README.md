@@ -70,5 +70,5 @@
 
 #### **Herramientas:**
 <p align="center">
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-  ![VSCode](https://img.shields.io/badge/-VS
+  ![GitHub](https://img.shields.io/badge
+
