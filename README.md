@@ -96,6 +96,7 @@
   </a>
 </div>
 
+<hr style="width: 60%; margin: 40px auto; border: 0.5px solid #ccc;" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
@@ -104,5 +105,6 @@
 <p align="center">
   <em><strong>"Simplicidad es la máxima sofisticación."</strong> – Leonardo da Vinci</em>
 </p>
+
 
 
