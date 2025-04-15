@@ -59,4 +59,13 @@
 #### **Metodologías:**
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=agile&logoColor=white)
 
+---
 
+### 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+</p>
+
+---
