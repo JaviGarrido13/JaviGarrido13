@@ -6,15 +6,15 @@
 
 ### 🚀 About Me
 
-💼 **Full Stack Developer** in constant learning  
-📚 Trained in **Full Stack Development** at **HACKABOSS**, working with modern technologies such as JavaScript, React, and Node.js.  
-🧩 Experienced in using agile methodologies like **Scrum**, and tools like **Postman**, **GitHub**, and **MySQL**.  
-🔭 Currently focused on both **backend** and **frontend** development, with an emphasis on clean code practices.  
-🌱 Committed to **continuous learning**.  
-🚀 Technologies I master: **HTML**, **CSS**, **React.js**, **Node.js**, **SQL**, **Tailwind**, **bcrypt**, **dotenv**, **JWT**, and more.  
-🎯 Looking for opportunities where I can **grow as a developer**.  
-🤝 Open to collaborating on **web**, **backend**, and **frontend** projects.  
-📬 **Contact**: [fjgarridovalderas@hotmail.com](mailto:fjgarridovalderas@hotmail.com)
+💼 Full Stack Developer committed to continuous learning
+📚 Trained in Full Stack Development at HACKABOSS, working with modern technologies such as JavaScript, React, and Node.js
+🧩 Experienced in applying agile methodologies like Scrum, and using tools such as Postman, GitHub, and MySQL
+🔭 Currently focused on both backend and frontend development, with a strong emphasis on clean code practices
+🌱 Dedicated to continuous improvement and staying up to date with the latest technologies
+🚀 Proficient in technologies including HTML, CSS, React.js, Node.js, SQL, Tailwind CSS, bcrypt, dotenv, JWT, and more
+🎯 Actively seeking opportunities to grow as a developer and contribute to impactful projects
+🤝 Open to collaborating on web, backend, and frontend projects
+📬 Contact: fjgarridovalderas@hotmail.com
 
 ---
 
