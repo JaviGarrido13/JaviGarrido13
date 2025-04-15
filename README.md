@@ -67,10 +67,14 @@
   Este es el tablero del juego Hackoji después de darle al botón 'Entrar' en el index:  
   <img src="https://github.com/JaviGarrido13/JaviGarrido13/blob/main/Hackoji.png?raw=true" width="500" />
 
-- **[Hackloud](enlace_del_proyecto)**  
+- **[Hackloud BACK](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK)**  
   Descripción breve del proyecto. Agrega una imagen si lo deseas:  
   <img src="URL_de_imagen" width="500" />
 
+- **[Hackloud FRONT](enlace_del_proyecto)**  
+  Descripción breve del proyecto. Agrega una imagen si lo deseas:  
+  <img src="URL_de_imagen" width="500" />
+  
 ---
 
 
