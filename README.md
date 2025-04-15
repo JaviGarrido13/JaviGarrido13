@@ -61,10 +61,17 @@
 
 ---
 
-### 📈 Stats
+### 📈 Mis Estadísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaviGarrido13&show_icons=true&theme=radical)](https://github.com/JaviGarrido13)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGarrido13&layout=compact&theme=radical)](https://github.com/JaviGarrido13)
+<div align="center">
+  <a href="https://github.com/JaviGarrido13">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaviGarrido13&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/JaviGarrido13">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGarrido13&layout=compact&theme=radical" />
+  </a>
+</div>
 
 ---
+
 
