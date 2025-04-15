@@ -69,13 +69,13 @@
   <img src="https://github.com/JaviGarrido13/JaviGarrido13/blob/main/Hackoji.png?raw=true" width="500" />
 
 - **[Hackloud BACK](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK)**  
-  Backend of the Online Hard Drive project Hackloud  
+  Backend of the Hackloud Online Hard Drive project. 
   
   DDBB diagram created with yEd Graph Editor:  
   <img src="https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK/blob/main/src/db/PFB_DiscoDuroOnline.jpg?raw=true" width="500" />
 
 - **[Hackloud FRONT](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-FRONT)**  
-  Frontend of the Online Hard Drive project Hackloud
+  Frontend of the Hackloud Online Hard Drive project.
   
   Screenshot of the Home page after logging in:  
   <img src="https://github.com/JaviGarrido13/JaviGarrido13/blob/main/Hackloud_Home.png?raw=true" width="500" />
