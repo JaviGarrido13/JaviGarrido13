@@ -70,7 +70,7 @@
 - **[Hackloud BACK](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK)**  
   Backend of the Online Hard Drive project Hackloud  
   
-  Database diagram created with yEd Graph Editor:  
+  DDBB diagram created with yEd Graph Editor:  
   <img src="https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK/blob/main/src/db/PFB_DiscoDuroOnline.jpg?raw=true" width="500" />
 
 - **[Hackloud FRONT](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-FRONT)**  
