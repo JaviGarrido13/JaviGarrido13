@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=750&lines=Desarrollador+Fullstack+en+constante+formación;Fan+del+Backend+y+el+código+limpio;Construyendo+con+JavaScript+y+React;Los+detalles+marcan+la+diferencia" alt="Typing SVG" />
 </p>
 
-
-
-
----
-
 ### 🚀 Sobre mí
 💼 Soy un desarrollador Full Stack en constante formación  
 📚 Me formé en Full Stack Development at Bootcamp HACKABOSS trabajando con tecnologías modernas como JavaScript, React y Node.js entre otras
