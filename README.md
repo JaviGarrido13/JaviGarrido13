@@ -63,9 +63,8 @@
 
 ### 📈 Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaviGarrido13&show_icons=true&theme=radical)](https://github.com/JaviGarrido13)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGarrido13&layout=compact&theme=radical)](https://github.com/JaviGarrido13)
 
 ---
+
