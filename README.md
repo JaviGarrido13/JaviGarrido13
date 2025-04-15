@@ -64,12 +64,12 @@
 ### 🚀 Proyectos Destacados
 
 - **[Hackoji](https://github.com/JaviGarrido13/Hackoji-Parejas-Emojis)**  
-  Este es el tablero del juego Hackoji despues de darle al boton 'Entrar' en el index:  
-  ![Hackoji Screenshot](https://github.com/JaviGarrido13/JaviGarrido13/blob/main/Hackoji.png?raw=true)
+  Este es el tablero del juego Hackoji después de darle al botón 'Entrar' en el index:  
+  <img src="https://github.com/JaviGarrido13/JaviGarrido13/blob/main/Hackoji.png?raw=true" width="500" />
 
 - **[Hackloud](enlace_del_proyecto)**  
   Descripción breve del proyecto. Agrega una imagen si lo deseas:  
-  ![Hackloud Screenshot](URL_de_imagen)
+  <img src="URL_de_imagen" width="500" />
 
 ---
 
