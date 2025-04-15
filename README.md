@@ -71,12 +71,14 @@
 
 
 - **[Hackloud BACK](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK)**  
-Backend del proyecto de Disco Duro Online Hackloud
+  Backend del proyecto de Disco Duro Online Hackloud
+  
   Diagrama de la DDBB creado con yEd Graph Editor:  
   <img src="https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK/blob/main/src/db/PFB_DiscoDuroOnline.jpg?raw=true" width="500" />
 
 - **[Hackloud FRONT](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-FRONT)**  
-Frontend del proyecto de Disco Duro Online Hackloud
+  Frontend del proyecto de Disco Duro Online Hackloud
+  
   Captura de la página principal Home al loguearte con tu usuario:  
   <img src="https://github.com/JaviGarrido13/JaviGarrido13/blob/main/Hackloud_Home.png?raw=true" width="500" />
   
