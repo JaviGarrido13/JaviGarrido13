@@ -64,7 +64,7 @@
 ### 🚀 Proyectos Destacados
 
 - **[Hackoji](https://github.com/JaviGarrido13/Hackoji-Parejas-Emojis)**  
-  Vista del tablero del juego de parejas 'Hackoji':  
+  Captura del tablero del juego de parejas "Hackoji":  
   <img src="https://github.com/JaviGarrido13/JaviGarrido13/blob/main/Hackoji.png?raw=true" width="500" />
 
 - **[Hackloud BACK](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK)**  
