@@ -69,7 +69,7 @@
 
 - **[Hackloud BACK](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK)**  
   Descripción breve del proyecto. Agrega una imagen si lo deseas:  
-  <img src="URL_de_imagen" width="500" />
+  <img src="https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-BACK/blob/main/src/db/PFB_DiscoDuroOnline.jpg?raw=true" width="500" />
 
 - **[Hackloud FRONT](https://github.com/JaviGarrido13/Hackloud-Disco-Duro-Online-FRONT)**  
   Descripción breve del proyecto. Agrega una imagen si lo deseas:  
