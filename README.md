@@ -1,8 +1,9 @@
 <h1 align="center">¡Hola! Soy <a href="https://github.com/JaviGarrido13">Javi Garrido</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C1D4&center=true&vCenter=true&width=460&lines=Desarrollador+Fullstack+en+proceso;Apasionado+por+el+backend+y+la+tecnología;Amante+del+código+limpio+y+la+eficiencia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Javi+Garrido!;Desarrollador+Fullstack+en+formación;Fan+del+backend+%26+la+lógica+limpia;Construyendo+con+JavaScript%2C+Node+y+React;Amante+del+código+que+cuenta+una+historia" alt="Typing SVG" />
 </p>
+
 
 ---
 
